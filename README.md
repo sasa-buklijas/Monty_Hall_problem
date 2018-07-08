@@ -34,13 +34,12 @@ Lose  |            3367 |  33.67%
 SUM   |           10000 | 100.00%
 </pre>
 
-#Interactive Game 
+# Interactive Game 
 
 ![game ScreenShot](img/game_screenShot.png)
 
 Interactive Game can be seen at:  
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sasa-buklijas/Monty_Hall_problem/master?filepath=Monty_Hall_Interactive.ipynb)
-
 
 To run on a local machine:
 
