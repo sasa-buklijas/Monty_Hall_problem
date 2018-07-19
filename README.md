@@ -39,7 +39,7 @@ SUM   |           10000 | 100.00%
 ![game ScreenShot](img/game_screenShot.png)
 
 Interactive Game can be seen at:  
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sasa-buklijas/Monty_Hall_problem/master?filepath=Monty_Hall_Interactive.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sasa-buklijas/Monty_Hall_problem/master?urlpath=apps%2FMonty_Hall_Interactive.ipynb)
 
 To run on a local machine:
 
