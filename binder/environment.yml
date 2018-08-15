@@ -1,5 +1,5 @@
 channels:
   - conda-forge
 dependencies:
-  - ipyvolume
+#  - ipyvolume # may I do not need it
   - appmode
